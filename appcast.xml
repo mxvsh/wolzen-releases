@@ -10,7 +10,17 @@
         
         
         
+        
         <item>
+            <title>Version 1.2.2</title>
+            <pubDate>Wed, 06 May 2026 17:57:22 GMT</pubDate>
+            <sparkle:version>1778090150</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Fixed license activation issue</p>]]></description>
+            <enclosure url="https://github.com/mxvsh/wolzen-releases/releases/download/v1.2.2/Wolzen-1.2.2.zip" length="1658962" type="application/octet-stream" sparkle:edSignature="tCI63Z8LAKN95uePaVcqBKI5FLOesJOjgR0vZv3sdB/FiRKjpIf3UTHHMCZZN2tkcohBcoHclanxBk4GIhJgAg==" />
+        </item>
+<item>
             <title>Version 1.2.1</title>
             <pubDate>Wed, 06 May 2026 17:51:17 GMT</pubDate>
             <sparkle:version>1778089785</sparkle:version>
