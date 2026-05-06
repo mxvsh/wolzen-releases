@@ -8,7 +8,17 @@
 
         
         
+        
         <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Wed, 06 May 2026 17:42:50 GMT</pubDate>
+            <sparkle:version>1778089305</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Added Fluid, Wave, Topo and Noise</p>]]></description>
+            <enclosure url="https://github.com/mxvsh/wolzen-releases/releases/download/v1.2.0/Wolzen-1.2.0.zip" length="1638931" type="application/octet-stream" sparkle:edSignature="5AGUdS+U7DeFyeeh2xOD3JJCpQzk8sUP7vQ70T1nhcxsj/GV98KATsZRkoKnQlfpgHMZmJ7VjLb7fcreczU5Cg==" />
+        </item>
+<item>
             <title>Version 1.0.1</title>
             <pubDate>Wed, 06 May 2026 17:17:58 GMT</pubDate>
             <sparkle:version>1778087814</sparkle:version>
