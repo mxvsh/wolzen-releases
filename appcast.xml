@@ -12,7 +12,17 @@
         
         
         
+        
         <item>
+            <title>Version 1.2.4</title>
+            <pubDate>Fri, 08 May 2026 07:00:17 GMT</pubDate>
+            <sparkle:version>1778223507</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Add Stellar style</p>]]></description>
+            <enclosure url="https://github.com/mxvsh/wolzen-releases/releases/download/v1.2.4/Wolzen-1.2.4.zip" length="1702352" type="application/octet-stream" sparkle:edSignature="puLLGovu/pFY9lVXhnAUjLswOuNaiWAPgi5p9/Qg+x1ouq7WoX8JHbq8fz/zKAyG9k8vSNO8Y919PTGQOEhBCg==" />
+        </item>
+<item>
             <title>Version 1.2.3</title>
             <pubDate>Thu, 07 May 2026 13:53:59 GMT</pubDate>
             <sparkle:version>1778161946</sparkle:version>
